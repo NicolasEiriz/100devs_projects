@@ -1,6 +1,6 @@
 # 100devs_projects
 
-Here I'll be uploading all the stufs that were created in 100devs, thanks Leon for all the support and love!
+Here I will be uploading all the stuff that was created in 100devs, thank you Leon for all the encouragement, support and love!
 
 
 ## How It's Made:
